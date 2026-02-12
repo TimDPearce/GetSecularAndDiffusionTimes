@@ -2,7 +2,7 @@
 
 Program to calculate the secular and diffusion timescales of a test particle, due to perturbations from a single planet. The equations and explanations are provided in Sec. 5.4 of Pearce & Wyatt (2014), and are based on e.g. Murray & Dermott (1999) and Termaine (1993).
 
-To use the program, simply change the values in the 'User Inputs'. You should not have to change anything outside of that section.
+To use the program, simply change the values in the 'User Inputs' section at the start of the code. You should not have to change anything outside of that section.
 
 Note: the secular timescale breaks down if the planet and test particle have the exact same location!
 
