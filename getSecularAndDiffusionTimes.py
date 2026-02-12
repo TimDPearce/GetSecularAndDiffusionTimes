@@ -9,7 +9,11 @@ just below. You should not have to change anything outside of that
 section.
 
 Note: the secular timescale breaks down if the planet and test particle
-have the exact same location!'''
+have the exact same location!
+
+Feel free to use this code, and if the results go into a publication,
+then please cite Pearce & Wyatt (2014). Also, let me know if you find any 
+bugs or have any requests!'''
 
 ############################### Libraries ###############################
 import numpy as np
