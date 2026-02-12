@@ -1,5 +1,5 @@
 
-'''Program to calculate the secular and difussion timescales of a test
+'''Program to calculate the secular and diffusion timescales of a test
 particle, due to perturbations from a single planet. The equations and
 explanations are provided in Sec. 5.4 of Pearce & Wyatt (2014), and are
 based on e.g. Murray & Dermott (1999) and Termaine (1993).
