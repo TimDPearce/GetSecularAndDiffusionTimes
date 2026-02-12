@@ -7,3 +7,5 @@ To use the program, simply change the values in the 'User Inputs' section at the
 Note: the secular timescale breaks down if the planet and test particle have the exact same location!
 
 To use the program, first download and unpack the ZIP file (press the green 'Code' button on GitHub, then 'Download ZIP', then unzip the file on your computer). Then navigate to that directory in a terminal, and type e.g. python getSecularAndDiffusionTimes.py
+
+Feel free to use this code, and if the results go into a publication, then please cite Pearce & Wyatt (2014). Also, let me know if you find any bugs or have any requests!
